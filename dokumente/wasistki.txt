@@ -1,0 +1,37 @@
+Künstliche Intelligenz (KI), auch artifizielle Intelligenz (AI), englisch artificial intelligence, ist ein Teilgebiet der Informatik, es umfasst alle Anstrengungen, deren Ziel es ist, Maschinen intelligent zu machen. Dabei wird Intelligenz verstanden als die Eigenschaft, die ein Wesen befähigt, angemessen und vorausschauend in seiner Umgebung zu agieren; dazu gehört die Fähigkeit, Sinneseindrücke wahrzunehmen und darauf zu reagieren, Informationen aufzunehmen, zu verarbeiten und als Wissen zu speichern, Sprache zu verstehen und zu erzeugen, Probleme zu lösen und Ziele zu erreichen.
+
+Seit der Begriffsprägung im Jahre 1955 hat sich eine Reihe relativ selbständiger Teildisziplinen herausgebildet:
+
+Mustererkennung, wozu auch Spracherkennung und Handschrifterkennung zählen
+Wissensmodellierung einschließlich Logischer Programmierung und Inferenzmaschinen
+Expertensysteme, Frage-Antwort-Systeme und Chatbots
+Maschinelles Lernen
+Künstliche neuronale Netze und Deep Learning
+Computer Vision
+Robotik
+Universelle Spieleprogramme.
+Zur Forschungsrichtung künstliches Leben bestehen enge Beziehungen. Das Fernziel der KI ist die als starke KI oder künstliche allgemeine Intelligenz bezeichnete Fähigkeit eines intelligenten Agenten, jede intellektuelle Aufgabe zu verstehen oder zu erlernen, die der Mensch oder ein anderes Lebewesen bewältigen kann.
+
+Praktische Erfolge der KI werden schnell in die Anwendungsbereiche integriert und zählen dann nicht mehr zur KI. Wegen dieses sog. „KI-Effekts“ scheint die KI-Forschung sich nur mit harten Nüssen abzumühen, die sie nicht knacken kann, was auch Teslers „Theorem“ zum Ausdruck bringt: „Intelligenz ist das, was Maschinen noch nicht gemacht haben“.
+
+Allgemeines
+Im Verständnis des Begriffs künstliche Intelligenz (KI) spiegelt sich die aus der Aufklärung stammende materialistische Vorstellung des „Menschen als Maschine“ wider. « L' Homme-Machine », so lautet der Titel des einschlägigen „blasphemischen Werkes“ des Radikalaufklärers La Mettrie aus dem Jahre 1748. Die sogenannte starke KI setzt sich genau dies zum Ziel. Sie möchte eine Intelligenz erschaffen, die das menschliche Denken mechanisch nachbildet, Sie möchte eine Maschine konstruieren, die intelligent reagiert, die sich wie ein Mensch verhält.
+
+Die Ziele der starken KI sind nach Jahrzehnten der Forschung weiterhin visionär.
+
+Begriffsherkunft und Definitionsversuche
+Der Begriff künstliche Intelligenz (im englischen Original artificial intelligence) wurde 1955 von dem US-amerikanischen Informatiker John McCarthy im Rahmen eines Förderantrags für ein Forschungsprojekt geprägt.
+
+Es existieren zahlreiche Definitionen für den Begriff der KI. Je nach Sichtweise wird die künstliche Intelligenz in Industrie, Forschung und Politik entweder über die zu erzielenden Anwendungen oder den Blick auf die wissenschaftlichen Grundlagen definiert:
+
+„Künstliche Intelligenz ist die Eigenschaft eines IT-Systems, »menschenähnliche«, intelligente Verhaltensweisen zu zeigen.“
+– Bitkom e. V. und Deutsches Forschungszentrum für künstliche Intelligenz
+
+„Die künstliche Intelligenz [...] ist ein Teilgebiet der Informatik, welches sich mit der Erforschung von Mechanismen des intelligenten menschlichen Verhaltens befaßt [...].“
+– Spektrum der Wissenschaft, Lexikon der Neurowissenschaften
+
+„Unter künstlicher Intelligenz (KI) verstehen wir Technologien, die menschliche Fähigkeiten im Sehen, Hören, Analysieren, Entscheiden und Handeln ergänzen und stärken.“
+– Microsoft Corp.
+
+„Künstliche Intelligenz ist die Fähigkeit einer Maschine, menschliche Fähigkeiten wie logisches Denken, Lernen, Planen und Kreativität zu imitieren.“
+– Europäisches Parlament (Webseite)

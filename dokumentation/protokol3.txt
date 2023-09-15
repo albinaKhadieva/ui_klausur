@@ -1,0 +1,34 @@
+Meeting 3. am 14.September um 10:10 - 10:50
+Meetingsdauer 40 Minuten.
+Teilnehmer/n (Albina, Christian & Haubir)
+
+Besprechungsthemen:
+    1. Allgemeinen Austausch.
+    2. Einheitlichkeit der Website
+    3. Aufgabenverteilung
+    4. Planung nächstes Meeting
+    5. Die aktueleste Version der daten wo speichern und bearbeiten
+
+
+Detail der Theman:
+    Durch die Bearbeitung der Aufgaben bzw. des Auftrags entstanden einige Konflikte wie 
+    die Formatierung der CSS-Daten.
+
+    Header und die Knöpfe stimmen nicht überall überein und sie müssen einheitlicht werden.
+    Hinzu sollte der Knopt der gewählten Seite irgendwie anders formatiert werden, damit es 
+    sichtbar wird, auf welcher Seite man sich befindet.
+
+    Die Texte müssen überall gleiche Formatierungen haben, indem wir eine css-datei erstellen,
+    die die Formatierung alle Texte übernimmt.
+
+    Die Aufgaben worden so aufgeteilt:
+        Albina: Die Header & Footer und die Formatiereung der Knöpfe
+        Christian: Die Erstellung der css.datei für die Texte.
+        Haubir: Das Protokoll und Agenda für die Meetings, passende Bilder für die Seiten
+                finden und in passenden Formaten speichern und die Seiten <div> s so
+                formatieren, dass die Texte und die Bilder zusammen in einem Page
+                dagestellt werden.
+
+Nächstes Meeting nach der Mittagspause stattfindet und die Agendas folgen.
+
+Haubir .K

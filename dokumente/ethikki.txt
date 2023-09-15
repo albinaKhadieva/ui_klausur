@@ -1,0 +1,51 @@
+Ethik der Künstlichen Intelligenz
+Die Ethik der künstlichen Intelligenz ist ein Teilbereich der angewandten Ethik, der sich mit den ethischen Fragen von KI-Systemen befasst.
+
+Themenbereiche der KI-Ethik sind:
+
+die Rolle von KI-Systeme in der Gesellschaft und ethische Werte, die ihrem Einsatz zugrunde liegen.
+ethische Normen für Menschen, die künstlich intelligente Systeme entwerfen, herstellen, testen, zertifizieren und benutzen.
+ethisches Verhalten von KI-Systemen (Maschinenethik).
+Konsequenzen einer sog. Singularität aufgrund einer superintelligenten KI.
+Die KI-Ethik hat Berührungspunkte und Überlappungen mit anderen Teilbereichen der angewandten Ethik: Digitale Ethik, Informationsethik, Medienethik, Virtuelle Ethik, Technikethik und Roboterethik.
+
+Die wachsende Bedeutung der KI-Ethik ergibt sich aus der Tatsache, dass „Künstliche Intelligenz (KI) und Robotik … in naher Zukunft erhebliche Auswirkungen auf die Entwicklung der Menschheit haben werden. Sie haben grundlegende Fragen darüber aufgeworfen, was wir mit diesen Systemen tun sollten, was die Systeme selbst tun sollten, welche Risiken sie bergen und wie wir diese kontrollieren können.“ Dabei sind nicht die Auswirkungen der KI-Anwendung an sich Gegenstand der KI-Ethik, sondern die Frage, wann und unter welchen Bedingungen bestimmte Auswirkungen zulässig sind.
+
+Die Debatte über ethische Fragen der KI begann bereits 1960 mit einer Arbeit von Norbert Wiener und der Erwiderung von Arthur L. Samuel.
+
+KI-Ethik als angewandte Ethik
+KI-Ethik ist ein junges Teilgebiet der angewandten Ethik. Wie in anderen Bereichen der angewandten Ethik lassen sich auch hier zwei unterschiedliche Herangehensweisen unterscheiden: einerseits ein prinzipienethischer Ansatz, der allgemeine Prinzipien für die Behandlung praktischer Probleme aufstellt, und andererseits ein partikularistischer Ansatz, der Moralurteile für konkrete Handlungssituationen entwickelt.
+
+Prinzipienethischer Ansatz
+Der prinzipienethische Ansatz (englisch principlism) wurde in den 1970er Jahren in der Medizinethik entwickelt und dient seitdem als Vorbild für die Entwicklung anderer Bereichsethiken, auch der KI-Ethik.
+
+Bei diesem Ansatz wird ein Satz von Prinzipien bereitgestellt, aus denen sich moralische Urteile für konkrete Handlungssituationen ableiten lassen, daher auch die Bezeichnung deduktivistisches Modell. Die Prinzipien werden „dadurch begründet, dass sie eine Art Schnittmenge verschiedener normativer Konzeptionen darstellen“, so dass sie von den unterschiedlichen normativen Theorien unabhängig und mit jeder akzeptablen Ethik verträglich sind. Sie werden daher als Prinzipien mittlerer Reichweite (englisch mid-level-principles) bezeichnet und sollen außerdem an die moralischen Alltagsüberzeugungen (englisch common morality) anknüpfen. Es gibt hier kein oberstes Prinzip, das die Anwendung der anderen Prinzipien regelt, vielmehr kann es im konkreten Anwendungsfall durchaus Kollisionen zwischen den Prinzipien geben.
+
+Die Anwendung der Prinzipien auf einen konkreten Fall ist keine einfache Herleitung, sondern sie verlangt einerseits eine genaue Beschreibung der Handlungsalternativen und andererseits eine sorgfältige Interpretation und Gewichtung der Prinzipien. Ziel ist ein Überlegungsgleichgewicht wie es John Rawls in seiner Theorie der Gerechtigkeit eingeführt hat. Das Überlegungsgleichgewicht liefert kein kategorisches Urteil, sondern eine sogenannte Prima-facie- oder Ceteris-paribus-Entscheidung. „Es wird in schwierigen Fällen nicht gelingen, ein für alle Mal richtige moralische Urteile zu fällen, sie sind vielmehr immer vorläufig (defeasible).“
+
+Partikularistischer Ansatz
+„Moralischer Partikularismus ist die Auffassung, dass der moralische Status einer Handlung nicht durch moralische Prinzipien bestimmt wird, sondern von der Konfiguration der moralisch relevanten Merkmale der Handlung in einem bestimmten Kontext abhängt. Die Hauptmotivation für den moralischen Partikularismus ergibt sich aus der Beobachtung, dass Ausnahmen von Prinzipien üblich und Ausnahmen von Ausnahmen nicht ungewöhnlich sind. Moralische Grundsätze, die nur für homogene Fälle geeignet sind, scheinen zu grob zu sein, um die feinen Nuancen in heterogenen moralischen Situationen zu berücksichtigen.“ Ob eine Eigenschaft ethisch für oder gegen eine Handlung spricht, hängt im allgemeinen von den anderen Eigenschaften und Randbedingungen der Handlung ab. Beim partikularistischen Ansatz werden konkrete Handlungsoptionen sorgfältig beschrieben und mit ähnlich gelagerten Fallbeispielen verglichen. Auch der partikularistische Ansatz greift auf ethische Prinzipien und Werte zurück. Andere Bezeichnungen für diesen Ansatz sind rekonstruktives Modell oder kasuistischer Ansatz.
+
+Ethische Prinzipien der künstlichen Intelligenz
+Eine Analyse von 84 Dokumenten mit ethischen Prinzipien und Richtlinien für KI, die überwiegend zwischen 2016 und 2019 veröffentlicht wurden, identifizierte 11 übergreifende ethische Prinzpien. Nach der Häufigkeit ihres Auftretens geordnet sind dies:
+
+Transparenz, Erklärbarkeit, Interpretierbarkeit.
+Gerechtigkeit, Fairness, Gleichheit, Inklusion, Pluralität, Vermeidung informationeller Voreingenommenheit (englisch bias).
+Schadensvermeidung, keine Diskriminierung.
+Verantwortung und Rechenschaftspflicht.
+Schutz der Privatsphäre, Datenschutz und Datensicherheit.
+Gemeinwohl, Schaffung sozioökonomischer Chancen und wirtschaftlichen Wohlstands.
+Freiheit und Autonomie, Meinungsfreiheit, informationelle Selbstbestimmung, freie Wahl der Plattform und Technologie, Schutz vor technologischen Experimenten, Manipulation und Überwachung.
+Vertrauen, vertrauenswürdige KI-Forschung, KI-Technologie und Designprinzipien.
+Nachhaltigkeit.
+Würde als Vorrecht des Menschen respektieren, bewahren und stärken.
+Solidarität, Auswirkungen von KI auf den Arbeitsmarkt und den sozialen Zusammenhalt, Nutzbarkeit der KI für alle Glieder der Gesellschaft.
+Luciano Floridi und Josh Cowls warnen davor, dass die Vielzahl unterschiedlicher KI-Regelwerke eher zu Verwirrung führt und dass ein „Markt für Prinzipien entsteht, auf dem Interessenten versucht sein könnten, sich die attraktivsten herauszupicken.“ Ihre Analyse von sechs hochrangigen Initiativen für gesellschaftlich nützlichen Einsatz von KI ergab eine weitgehende Übereinstimmung der ethischen Prinzipien, so dass es nach ihrer Ansicht möglich ist, die KI-Ethik auf die vier Prinzipien der Medizinethik und ein zusätzliches fünftes Prinzip Erklärbarkeit zu gründen:
+
+Fürsorge (Benefizienz): KI-Technologie soll der Menschheit nützen, das Wohlergehen fördern, die Menschenwürde wahren und der Erhaltung des Planeten dienen.
+Schadensvermeidung (Non-Malefizienz): Negative Folgen eines übermäßigen oder missbräuchlichen Einsatzes von KI müssen vermieden werden, KI soll nur in einem sicheren Rahmen eingesetzt werden.
+Autonomie: Menschen müssen die volle Entscheidungsfreiheit darüber haben, ob und welche Aufgaben sie an KI-Systeme delegieren, ihre Freiheit, sich eigene Normen und Standards zu setzen, muss gewahrt bleiben.
+Gerechtigkeit: Wahrung der Solidarität, Vermeidung von Ungerechtigkeit, gleichberechtigter Zugang zu den Vorteilen der KI.
+Erklärbarkeit (Verständlichkeit): Die Prinzipien 1 bis 4 sind nur realisierbar, wenn auch Laien nachvollziehen können, welchen Nutzen oder Schaden KI für die Gesellschaft hat und wer für welche Auswirkungen verantwortlich ist.
+Siehe auch: Explainable Artificial Intelligence
+

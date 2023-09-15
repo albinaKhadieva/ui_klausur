@@ -1,0 +1,135 @@
+Anwendungen
+Für künstliche Intelligenz gibt es zahlreiche Anwendungsgebiete. Einige Beispiele kurz zusammengefasst:
+
+Suchmaschinen erleichtern den Umgang mit der im Internet vorhandenen Informationsflut.
+
+Bei der Exploration von Ölquellen, der Steuerung von Marsrobotern oder der medizinischen Diagnose werden Expertensysteme eingesetzt.
+
+Maschinelle Übersetzung ist weit verbreitet. Beispiele: Google Übersetzer, DeepL
+
+Texterkennung und Textgenerierung, zum Beispiel von Eilmeldungen, Werbung oder für besonders strukturierte Daten
+
+Data-Mining und Text Mining bieten Methoden zur Extraktion von Kerninformationen aus nicht- oder nur schwach strukturierten Texten, wie es etwa zur Erstellung von Inhaltsanalysen benötigt wird.
+
+Mittels Argumentation Mining können Argumentationsstrukturen in Texten analysiert werden.
+
+Informationsrückgewinnung hat das Wiederauffinden und Zusammenführen bereits bestehender, komplexer Strukturen in sehr großen Datensätzen zum Ziel, ein Anwendungsgebiet sind Internet-Suchmaschinen.
+
+Analyse und Prognose von Aktienkursentwicklungen werden gelegentlich durch künstliche neuronale Netze unterstützt.
+
+Optische Zeichenerkennung liest gedruckte Texte zuverlässig.
+
+Handschrifterkennung wird u. a. millionenfach in Geräten wie PDAs, Smartphones und Tabletcomputern verwendet.
+
+Spracherkennung ermöglicht Sprachsteuerung oder das Diktieren eines Textes. Wird u. a. in Smartphones eingesetzt, z. B. bei Siri, Google Assistant, Cortana und Samsungs Bixby oder auch Amazon Echo.
+
+Gesichtserkennung, z. B. die App FindFace.
+
+Deepfakes, d. h. der Austausch von Gesichtern oder anderen Medieninhalten
+
+Bilderkennung, z. B. das automatische Taggen von Bildern bei Flickr oder die Cloud Vision API von Google.
+
+Computeralgebrasysteme, wie Mathematica oder Maple, unterstützen Mathematiker, Wissenschaftler und Ingenieure bei ihrer Arbeit.
+
+Computer-Vision-Systeme überwachen öffentliche Plätze, Produktionsprozesse oder sichern den Straßenverkehr.
+
+In Computerspielen dienen die Algorithmen, die in der KI entwickelt wurden, dazu, computergesteuerte Mitspieler intelligent handeln zu lassen. (siehe auch KI in Computerspielen)
+
+Bei Gruppensimulationen für Sicherheitsplanung oder Computeranimation wird ein möglichst realistisches Verhalten von (Menschen-)Massen berechnet.
+
+Ein wissensbasiertes System bzw. spezieller ein Expertensystem stellt Lösungen bei komplexen Fragestellungen zur Verfügung. Beispiele für solche Anwendungen sind: Das Computerprogramm Watson (siehe weiter oben) oder die Wissensdatenbank Cyc. In einfacherer Form wird dies u. a. in Smartphones eingesetzt z. B. bei Siri, Google Now, Cortana und Samsungs S Voice oder auch Amazon Echo.
+
+Semantische Suchmaschinen, wie Wolfram Alpha
+
+Selbstfahrende Kraftfahrzeuge, z. B. Google Driverless Car (siehe oben)
+
+Humanoide Roboter, z. B. Atlas, ASIMO, Pepper
+
+Bots, insbesondere social Bots (z. B. cleverbot)
+
+Autonome Waffen
+
+Intelligenter Persönlicher Assistent (oder auch digitaler Sprachassistent)
+
+Suche nach extrasolaren Planeten durch Auswertung von Helligkeitsschwankungen von Sternen über die Transitmethode
+
+KI in der Juristik
+Ein großer Teil der Arbeit von Juristen besteht in der Analyse von Akten, zum Beispiel von Präzedenzfällen, um daraus Argumente zu entwickeln. Derartige Arbeit kann mittlerweile zu einem Teil von KI-Anwendungen übernommen werden. Die Beratungsfirma McKinsey schätzte 2017, dass etwa 22 Prozent der Arbeit von Anwälten und 35 Prozent der Arbeit von Rechtshelfern mit Hilfe von KI-Systemen automatisiert werden könnte. Die KI-Systeme werden anhand von Millionen von Dokumenten und Fallbeispielen und juristischen Anträgen trainiert. Danach kann eine KI diejenigen Dokumente markieren, die ein Jurist für seinen Fall braucht; oft besser, als dies ein Mensch könnte. JPMorgan gab bekannt, die KI Contract Intelligence einzusetzen, die nach Aussagen von JPMorgan eine Menge von Daten in Sekunden analysieren kann, wofür Juristen und Rechtshelfer 360.000 Stunden benötigen würden.
+
+KI bei Tötungsmaschinen und Kriegswaffen
+Am 18. September 2021 wurde bekannt, dass der iranische Kernphysiker, Hochschullehrer und Angehörige der iranischen Revolutionsgarden Mohsen Fachrisadeh durch KI-gesteuerte Tötungs-Roboter mit hoher Schusswaffen-Präzision ermordet wurde. Trotz der bekannten Gefährdung des Wissenschaftlers, seiner Eskortierung und seinem starken Personenschutz waren, einem Artikel der New York Times zufolge, nur 15 hochpräzise Schüsse zu seiner Tötung notwendig. Dies wurde durch eine KI-gestützte Gesichtserkennung möglich, die offenbar genau zwischen dem Wissenschaftler, seiner Frau und seinen Kindern unterscheiden konnte. Die Frau saß, genau wie seine Söhne, nur wenige Zentimeter von ihm entfernt im Auto und blieb beim Attentat dennoch physisch unverletzt. Die Kontrolle über das Attentat erfolgte dem Artikel zufolge aus 1600 Kilometer Entfernung, an einem nicht näher genannten Ort.
+
+Im Zuge des russischen Angriffskrieges auf die Ukraine seit dem Februar 2022 ist die mediale Aufmerksamkeit für den Einsatz von KI für militärische Zwecke gestiegen. In Deutschland beschäftigen sich sowohl die Bundeswehr als auch die private Rüstungswirtschaft intensiv mit der Entwicklung und Implementierung von KI-unterstützten Waffensystemen.
+
+Im Mai 2023 erregte der Vortrag eines Colonels der U.S. Air Force Aufsehen, der bei einer Militär-Konferenz in London geschildert hatte, wie KI ihre Einsatz-Parameter verletzt und den eigenen Kontrollturm angegriffen habe, weil sie den menschlichen Operator als Hindernis bei der Erfüllung ihrer Mission betrachtet hätte. Kurz darauf ließ das U.S.-Militär klarstellen, es habe sich um keine echte Übung, sondern lediglich um ein Gedankenexperiment gehandelt.
+
+KI im Marketing
+Im Marketing wird künstliche Intelligenz eingesetzt, um zum Beispiel Werbe-E-Mails zu verschicken, den Kundendienst durch Social Bots und Chatbots abzulösen, Analysen und Prognosen des Markts und des Kunden, beispielsweise auf Basis von Big Data, durchzuführen und kundenspezifische Werbeanzeigen, Empfehlungen und Suchergebnisse, sowie programmierte Abläufe zu entwickeln. So beabsichtigte der Online-Versandhändler Zalando im März 2018, 250 Arbeitsplätze im Marketingbereich im Standort Berlin zu streichen, die durch künstliche Intelligenz ersetzt werden sollen.
+
+KI in Computer- und Gesellschaftsspielen
+In Computerspielen wird eine KI meistens dazu verwendet um NPC, sogenannte Nicht-Spieler-Charaktere, die menschenähnliches Verhalten simulieren (zum Beispiel als simulierte Verbündete oder Computergegner) zu steuern oder bestimmte Dinge in der Spielwelt oder bei den Funktionen des Spielecharakters (zum Beispiel Routenfindung, prozedurale Generierung, automatische Verbesserungen und Vervollständigungen beim Streckenbau oder andere Algorithmen) zu berechnen. Bei einigen Spielen lässt sich der Schwierigkeitsgrad der KI-Gegner einstellen und optional wählen ob man gegen eine KI, gegen echte Spieler oder eine Mischform spielen möchte. Bei ein paar Spielen kann sich die KI auch automatisch an das Spielverhalten anpassen oder kann aus Fehlern lernen. Da im Einzelspielermodus oft Gegner fehlen, wird auf eine KI zurückgegriffen. Zudem wird KI in Computerspielen verwendet, um viele oder sehr spezielle Charaktere zu simulieren, die nicht oder sehr schwer von echten Menschen übernommen werden könnten. Teilweise lassen sich KI-Anwendungen in Computerspielen aber auch einfach austricksen, da ein Mensch ein bestimmtes Muster einer KI umgehen kann. Der Realismus und das Gameplay eines Computerspiels wird daher auch oft an der KI gemessen.
+
+Auch wird KI in Strategie-Brettspielen als Ersatz für den menschlichen Partner eingesetzt. Gegen sehr leistungsfähige Versionen dieser Programme haben auch Weltmeister kaum Gewinnchancen. Erfolge gegen menschliche Profispieler erzielte KI zum Beispiel in Backgammon, Schach, Checkers, Go und StarCraft II. Das Meistern komplexer Spiele ist oft Gegenstand der Forschung, um so neue Methoden der künstlichen Intelligenz zu entwickeln und zu demonstrieren. Inzwischen tragen diese Programme Partien untereinander aus. 2016 besiegte die auf DeepMind aufbauende KI AlphaGo den 18-maligen Go-Weltmeister, den Südkoreaner Lee Sedol unter Turnierbedingungen 4:1. Ende 2017 hat die Neuentwicklung AlphaZero gegen das bis dahin weltbeste Schachprogramm Stockfish in 100 ausgetragenen Partien deutlich obsiegt. 2019 gelang es der DeepMind-Weiterentwicklung Alpha Star, menschliche Top-Spieler beim populären und als sehr schwer geltenden Strategiespiel StarCraft II 10:1 zu besiegen.
+
+Darüber hinaus werden auch KI-Anwendungen entwickelt, die anstelle eines menschlichen Spielers Videospiele wie Jump ’n’ Runs, Rollenspiele oder Rennspiele steuern. Ähnlich ist die Entwicklung im E-Sport-Bereich, in dem Profigamer versuchen, die besten KI-Systeme zu schlagen, während Entwickler darauf hinarbeiten, die besten Spieler durch eine KI zu besiegen.
+
+KI zur Erzeugung von Bildern und Kunstwerken
+
+Ein 2018 durch eine KI errechnetes Porträt des Künstlers Joseph Ayerle, das die Schauspielerin Ornella Muti zeigt. Die KI wurde darauf trainiert, den Stil des Renaissance-Malers Raffael nachzugestalten.
+Forscher aus Tübingen haben neuronale Netze dazu verwendet, ein vorgegebenes Foto im Stil eines berühmten Künstlers zu malen z. B. Van Gogh oder Edvard Munch. Forscher bei Google haben neuronale Netze darauf trainiert, aus einer Art weißem Rauschen Bilder im Stil von Van Gogh und anderen Künstlern zu produzieren. Die Bilder wurden später auf einer Auktion versteigert.
+
+Im Juli 2017 stellten Forscher der Rutgers-Universität eine KI vor, die künstlerische Gemälde produziert. Die KI wurde mit ca. 80.000 Bildwerken der westlichen Kunstgeschichte trainiert. Die von der KI erstellten Gemälde wurden mit Bildern, die auf der Kunstmesse Art Basel ausgestellt worden waren, vermischt und 18 Testpersonen (künstlerischen Laien) in einem Blindtest zur Beurteilung vorgelegt. Die Testpersonen sollten einschätzen, ob die Bilder von Menschen oder einem Computer erzeugt worden waren. Bei den durch echten, auf der Art Basel ausgestellten Kunstwerken unterstellten die Testpersonen bei 52 % aller Werke, sie seien durch einen Computer erstellt. Bei den KI-basierten Bildern, nahmen die Testpersonen das nur für 25 % aller Bilder an.
+
+Im März 2018 wurde ein Videokunstwerk publiziert, in dem eine durch KI erschaffene Ornella Muti agierte. Der Künstler Joseph Ayerle hatte mit Hilfe eines künstlichen neuronalen Netzes neue Filmsequenzen errechnet, die die echte italienische Schauspielerin nie gespielt hat. 2021 wurde der Kurzfilm „Fellini Forward“ aufgeführt. Bei der Produktion der Frederico Fellini-Hommage setzte das Produktionsteam auf KI-Werkzeuge, um dramaturgische, visuelle und linguistische Muster in den Werken Fellinis zu erkennen und sie im neuen Film einzusetzen.
+
+Im Oktober 2018 versteigerte das Auktionshaus Christie’s das durch künstliche Intelligenz erschaffene „Portrait of Edmond de Belamy“. Das ursprünglich auf einen Verkehrswert von 7.000 bis 10.000 US-Dollar geschätzte Bild erzielte in der Auktion einen Erlös von 432.500 Dollar.
+
+Hinter der Herstellung des Porträts stand die französische Künstlergruppe Obvious, die eine künstliche Intelligenz mit den Bilddaten von 15.000 echten Gemälden des 14. bis 20. Jahrhunderts trainiert hatte. Besondere Beachtung in der Presse fand, dass das Bild nicht mit den Signaturen der Künstler unterzeichnet wurde, sondern mit der Formel „min G max D Ex[log(D(x))]+Ez[log(1-D(G(z)))]“, die nach Angaben des Künstlerteams bei seiner Entstehung genutzt wurde.
+
+Der Autor George R. R. Martin schrieb an seinem sechsten Buch der Reihe Game of Thrones, das von der Fangemeinde ungeduldig erwartet wurde. Der Programmierer Zack Thoutt trainierte eine KI (Recurrent Neural Net) mit den ersten fünf Büchern der Serie und ließ von der KI ein sechstes Buch schreiben. Das Ergebnis wurde im Sommer 2017 im Internet veröffentlicht. Dabei entwickelte die KI einzelne Charaktere genauso weiter, wie das in manchen Fan-Theorien erwartet wurde, ohne dass die KI davon wusste. Mängel gibt es bei der Grammatik, einzelne Charaktere, die bereits verstorben waren, tauchen wieder auf und die Handlungsstränge sind nicht sehr spannend.
+
+Sunspring ist der erste Kurzfilm (2016), dessen Drehbuch von einer KI geschrieben wurde.
+
+Google versucht in seinem Magenta-Projekt, KI-Systeme zu erzeugen, die kreativ sind. So wurde im Sommer 2017 eine Klavier-Improvisation vorgestellt, die von einer KI komponiert wurde. Bereits im Sommer 2016 veröffentlichte das Projekt Magenta einen kurzen Pop-Song, der von einer KI komponiert wurde.
+
+Die Musik des Albums „I am AI“ der Sängerin Taryn Southern, vorgestellt im Herbst 2017, wurde von einer KI komponiert. Um einen Song mit Hilfe einer KI zu komponieren, verwendet man eine Software wie etwa Amper Music oder Jukedeck, wählt das Genre und weitere Parameter wie Länge des Songs, Instrumentierung usw. Innerhalb von Sekunden komponiert die KI dann einen einzigartigen Song. Ein Musiker kann daraufhin Bruchstücke dieser Beispiele zu einem eigenen Song zusammenfügen. Somit kann jedermann mehr oder weniger professionelle Musik kreieren. Immer mehr Musiker geben zu, beim Komponieren KI als Werkzeug zu benutzen. Auch das Album „Hello World“ von Skygge wurde vollständig mit einer KI (Flow-Machine) komponiert. Die KI komponiert Soundstücke, die dann von Menschen sortiert, selektiert und zusammengesetzt werden, das sog. Kuratieren. Ein Team von Musikwissenschaftlern und KI-Experten unter Leitung von Matthias Röder, Direktor des Salzburger Karajan-Instituts, vollendete 2021 mit Hilfe einer künstlichen Intelligenz die unvollendete 10. Sinfonie des Komponisten Beethoven.
+
+
+fiktives, mit Hilfe von KI und Bildbearbeitung erzeugtes fotorealistisches Bild: Der junge Amazon-Gründer Jeff Bezos eine Woche vor dem Launch von amazon.com
+Ab dem Jahr 2022 wurden den Nutzern innovative Text-zu-Bild-KI-Systeme zur Erzeugung von Bildern zur Verfügung gestellt, die einen deutlichen Fortschritt gegenüber früheren Technologien darstellten. Zu den namhaften Bildgeneratoren zählten beispielsweise Midjourney, DALL-E (entwickelt vom OpenAI-Team, das auch hinter ChatGPT steht) und Stable Diffusion. Eine herausragende Eigenschaft dieser neuen Programme bestand darin, dass Bilder mithilfe von Wortanweisungen, sogenannten „Prompts“, erstellt werden konnten. Zusätzlich war es möglich, der KI eigene Bilder als Beispiele vorzugeben. Ab dem Jahr 2023 erreichten die KI-generierten Bilder ein so hohes Maß an Fotorealismus, dass man sie teilweise für echte Fotos halten konnte. Zwei KI-generierte Bilder erlangten große Aufmerksamkeit in der Öffentlichkeit, da sie eine bemerkenswerte fotografische Qualität aufwiesen und von vielen Betrachtern zunächst für echte Fotos gehalten wurden: Ein KI-generiertes Bild von Papst Franziskus, der einen auffällig modischen Wintermantel trug, und ein KI-generiertes Bild eines simulierten Angriffs auf das Pentagon.
+
+Kontrovers ist die Sicht der am Diskurs beteiligten Künstler und Experten über die Rolle der KI als Urheber eines Kunstwerks. Das Motto der Künstlergruppe Obvious lautet: „Kreativität ist nicht nur etwas für Menschen.“ Konträr dazu steht die Aussage des Künstlers Joseph Ayerle, der vom Massachusetts Institute of Technology mit den Worten zitiert wird: „KI kann erschaffen, aber sie ist nicht schöpferisch“. Matthias Röder, der ein Team leitete, das den Versuch unternahm, mit KI-Hilfe Beethovens 10. Sinfonie zu vollenden, sprach von einer „Kollaboration zwischen Mensch und Maschine“.
+
+In juristischer Hinsicht ist strittig, ob und wie von einer KI geschaffene Kunstwerke dem Schutz des Urheberrechtsgesetzes unterliegen. Denn gemäß § 2 II UrhG können „Werke“ im Sinne des Urheberrechts nur „persönliche geistige Schöpfungen“ sein. Ein ausschließlich von einer Maschine geschaffenes Werk fällt nicht darunter, weil es nach einheitlicher Ansicht einer menschlich-gestalterische Tätigkeit erfordert. Jedenfalls in den Fällen, in denen die KI nicht nur als Hilfsmittel, Instrument oder Werkzeug des Werkschaffenden eingesetzt wird, sondern jegliche Kontrolle über Prozess und Ergebnis durch einen menschlichen Schöpfer aufgegeben wurde, fehlt es an einer geistigen Verbindung des „Werkes“ zu einem „Schöpfer“ im Sinne des § 2 II UrhG, sodass Urheberrecht dann nicht besteht.
+
+KI zur Herstellung von Produktdesign
+Ein Team des US-amerikanischen 3D-Software-Experten Autodesk und der bekannte Designer Philippe Starck haben gemeinsam den – nach Angaben der Beteiligten – ersten „von künstlicher Intelligenz und Menschen gemeinsam entwickelte Stuhl“ erschaffen, den sogenannten A. I. Chair. 2023 wurde bekannt, dass die NASA eine eigene Software nutzt, um mit Hilfe von KI das Design von Bauteilen für Raumschiffe und andere Geräte für Raumfahrten optimal zu gestalten. Das organisch anmutende Aussehen dieser KI-generierten Bauteile unterscheidet sich deutlich vom menschengemachten Design.
+
+KI in der Schulbildung
+Einige Autoren betrachten künstliche Intelligenz als Schlüsseltechnologie in der Schulbildung.
+
+durch Chatbots kann das Lernen von Sprachen unterstützt werden
+durch Maschinelles Lernen können Lernangebote dem Lernstand der Schüler angepasst werden
+durch Big Data können Bildungsverläufe prognostiziert und Selektionsentscheide gesteuert werden
+KI in der Hochschulbildung
+An einigen Hochschulen werden KI-Systeme zur individuellen Unterstützung von Studierenden und Lehrenden eingesetzt.
+
+Automatisierte Assessments unterstützen Studierende beim Wissenserwerb
+Mit Hilfe von Learning Analytics werden digitale Bildungsangebote optimiert
+Adaptive Lernumgebungen passen sich an die individuellen Bedürfnisse der Lernenden an (z. B. MathSpring)
+Chatbots beantworten häufig gestellte Fragen (z. B. Eliza, Mitsuku, Jill Watson)
+Empfehlungssysteme helfen bei der Wahl von Studienfächern, Kursen, Stipendien und Ressourcen (z. B. Literatur)
+KI beim Klimaschutz
+KI kann Satellitenbilder auswerten und so ermitteln, wo welche Treibhausgase emittiert werden, ob Gebäude energieeffizient sind sowie wo und in welchem Umfang Wälder abgeholzt oder wieder aufgeforstet werden. Beispiele aus den Bereichen Landwirtschaft und Landnutzung sind zum Beispiel NASA Harvest und der Copernicus Land Monitoring Service.
+
+Mit KI können Daten zu Wind- und Solarenergieerzeugung, Verkehrsaufkommen und Extremwetterereignissen analysiert werden und daraus Prognosen für zukünftige Bedarfe und Alternative entwickelt werden. Ein Beispiel aus der Praxis ist Open Climate Fix, eine Organisation, welche Open-Source-Modelle für ein sogenanntes Nowcasting entwickelt, das heißt, die Wolkenmenge auf Satellitenbildern wird analysiert und daraus, in Kombination mit anderen Daten, die Solarstromproduktion für die nächsten Stunden sehr genau vorausgesagt.
+
+Mit Hilfe von KI können Teile großer Klimamodelle nachgebildet, Stromnetze optimiert und klimafreundliche Stadtplanungstools entwickelt werden. Zwar kann KI physikalische Klimamodelle nicht ersetzen, doch kann sie in einigen Fällen gute Annäherungen für besonders rechenzeitintensive Modellkomponenten liefern, etwa indem ein näherungsweises Modell der Wolkenphysik nachgebildet wird. Auf diesem Wege lassen sich Klimamodelle nicht nur schneller berechnen, KI hilft hier auch, den hohen Energieaufwand der erforderlichen Supercomputer zu minimieren.
+
+KI in der Materialwissenschaft
+→ Hauptartikel: Künstliche Intelligenz in der Materialwissenschaft
+KI in der Arbeitswelt
+Das Institut für Arbeitsmarkt- und Berufsforschung (IAB) forscht zu Veränderungen der Arbeitswelt durch künstliche Intelligenz. Vorgestellt werden auf einer Infoplattform Forschungsprojekte und Erkenntnisse zu Folgen für Beschäftigung, Löhne und Qualifikationsanforderungen.
+
+KI in Logistik und Verkehr
+Wie 2023 bekannt wurde, setzt die Deutsche Bahn KI ein, die Pünktlichkeit ihrer Züge zu verbessern. Nach einen Pilotprojekt in Stuttgart wurde das Projekt auf das Rhein-Main-Gebiet und Berlin ausgedehnt.

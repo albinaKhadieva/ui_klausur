@@ -1,0 +1,36 @@
+Meeting 4. am 14.September um 14:40 - 15:00
+Meetingsdauer 20 Minuten.
+Teilnehmer/n (Albina, Christian & Haubir)
+
+Besprechungsthemen:
+    1. Allgemeinen Austausch.
+    2. Das letzte Check der Seite "gemeinsam"
+    3. Aufgabenverteilung "HA"
+    4. Planung nächstes Schritts "Responsive design" 
+    5. Search inbetten "AL"
+    6. Geeignete Bilder hinzufügen. "HA"
+    7. ChatBot verbessern "CH"
+    8. Kontaktformular bearbeiten "CH"
+    9. Die Knöpfe ändern "die Fragezeichen" "HA"
+
+
+
+Detail der Theman:
+    Die Konflikte der letzten Meetings sind sehr gut behoben und nun funktionieren alle Seiten 
+    sehr gut. Dank der gemeinsammen Lösung der CSS-Datein ist jetzt alles in Ordnung. ;)
+
+    Die Header und Footer sind jetzt überall stimmig... und die Links funktionieren tadeslos
+
+    Die Formatierug der Texte sind nun sehr gut zusammen passend
+
+    Die Aufgaben worden so aufgeteilt:
+        Albina: Die Header & Footer und die Formatiereung der Knöpfe
+        Christian: Die Erstellung der css.datei für die Texte.
+        Haubir: Das Protokoll und Agenda für die Meetings, passende Bilder für die Seiten
+                finden und in passenden Formaten speichern und die Seiten <div> s so
+                formatieren, dass die Texte und die Bilder zusammen in einem Page
+                dagestellt werden.
+
+Nächstes Meeting findet Morgen dem 15.Sep um 8:15 statt.
+
+Haubir .K

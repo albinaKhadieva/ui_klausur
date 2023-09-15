@@ -1,0 +1,132 @@
+/* Stildefinitionen für die Textformatierung */
+body
+{
+    font-family: 'Poppins', sans-serif; /* Schriftartvorschlag */
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    flex-direction: column;
+    justify-content: center;    
+}
+
+h1, h2, h3
+{
+    color: #333; /* Textfarbe */
+}
+
+h1
+{
+    font-size: 32px;
+    margin-top: 30px; /* Hinzufügen von oberem Abstand zu h1 */
+	margin-left: 20px;
+}
+
+h2
+{
+    font-size: 28px;
+    margin-top: 20px; /* Hinzufügen von oberem Abstand zu h2 */
+	margin-left: 20px;
+}
+
+h3
+{
+    font-size: 24px;
+    margin-top: 15px; /* Hinzufügen von oberem Abstand zu h3 */
+	margin-left: 20px;
+}
+
+p
+{
+    font-size: 20px;
+    margin-bottom: 20px;
+	margin-left: 20px;
+}
+
+ul
+{
+    margin: 0;
+    padding: 0 0 0 20px;
+	margin-left: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+	font-size: 24px;
+	margin-left: 20px;
+}
+
+/* Optional: Die Chatbox kann in der Breite begrenzt sein, um sie besser lesbar zu machen */
+#chat-container
+{
+    max-width: 600px; /* Hier kannst du die maximale Breite nach Bedarf anpassen */
+    width: 100%;
+    padding: 20px;
+    background-color: #FFF;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+	margin-left: 20px;
+}
+
+label
+{
+    margin-left: 20px;
+}
+
+img
+{
+    border-radius: 20px;
+}
+
+.div_main
+{
+    display: flex;
+}
+
+.div_bild
+{
+    padding-top: 80px;
+}
+
+#name,
+#email {
+    width: 100%; /* Setzt die Breite auf 100% des verfügbaren Platzes */
+	height:50px;
+}
+#nachricht {
+    width: 100%; /* Setzt die Breite auf 100% des verfügbaren Platzes */
+    height: 200px; /* Legt die Höhe auf 200 Pixel fest, du kannst diesen Wert anpassen */
+	margin-top: 10px;
+}
+
+#user-input {
+    width: 100%; /* Setzt die Breite des Textfelds auf 100% des verfügbaren Platzes */
+    height: 100px; /* Legt die Höhe des Textfelds auf 100 Pixel fest, du kannst diesen Wert anpassen */
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+#send-button {
+    width: 100%; /* Setzt die Breite des Buttons auf 100% des verfügbaren Platzes */
+    height: 40px; /* Legt die Höhe des Buttons auf 40 Pixel fest, du kannst diesen Wert anpassen */
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+@media only screen and (max-width: 850px){
+
+    .div_main
+    {
+    flex-direction:column-reverse;
+    }
+
+    .div_bild
+    {
+        text-align: center;
+        padding-top: 0;
+    }
+}
+
+@media only screen and (max-width: 400px){
+    img{
+        max-width: 100%;
+        height: auto;
+    }
+}

@@ -1,0 +1,7 @@
+"hallo"
+"wie geht es dir"
+"öffne die Website"
+"danke"
+"was ist der Sinn des Lebens"
+"pizza"
+"liebst du mich?"
